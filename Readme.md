@@ -9,7 +9,7 @@ Use the package manager npm to install the dependencies
 ```bash
 npm install
 ```
-## collabortors
+## collaborators
 
 - sahbi bannour
 - abir Bouagila

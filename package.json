@@ -1,0 +1,21 @@
+{
+  "name": "cov-q11",
+  "version": "1.0.0",
+  "description": "covoiturage project FIA2",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" :"node server.js"
+  },
+  "dependencies": {
+    "express": "*",
+    "body-parser": "*",
+    "dotenv": "*",
+    "nodemon": "*"
+  },
+  "keywords": [
+    "MEAN"
+  ],
+  "author": "sahbi bannour",
+  "license": "ISC"
+}
